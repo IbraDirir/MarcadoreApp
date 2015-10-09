@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86aeb19e-4c9c-47bc-99d8-82281dee599f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/marcador/marcador/templates/marcador/bookmark.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/marcador/marcador/templates/marcador/bookmark_user.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysite/templates/base.html" afterPath="$PROJECT_DIR$/mysite/templates/base.html" />
-    </list>
+    <list default="true" id="86aeb19e-4c9c-47bc-99d8-82281dee599f" name="Default" comment="" />
     <ignored path="MarcadoreApp.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -263,7 +259,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Myproj" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
