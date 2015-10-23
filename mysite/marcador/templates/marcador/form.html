@@ -5,4 +5,13 @@
   {% if create %}Create{% else %}Edit{% endif %} bookmark
 {% endblock %}
 
+
 {% block heading %}
+  <h2>
+    {% if create %}
+      Create bookmark
+    {% else %}
+      Edit bookmark
+    {% endif %}
+  </h2>
+{% endblock %}
