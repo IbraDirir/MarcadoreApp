@@ -25,6 +25,7 @@
   {% else %}
     {% url "marcador_bookmark_edit" pk=form.instance.pk as action_url %}
   {% endif %}
+
   <form action="{{ action_url }}" method="post" accept-charset="utf-8">
     {{ form|crispy }}
     {% csrf_token %}
